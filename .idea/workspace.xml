@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9d52d29-6fa3-4922-a3b9-d8d1136f56b8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/ArraySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InsertionSort/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearch/EmployeeRating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearch/EvenAndOddIndices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearch/EvenNoOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearch/EvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearch/MaximumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearch/sumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubbleSortAlgorithm/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet/TargetArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selectionSortAlgorithm/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/BinarySearch/arraySearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LinearSearch/EmployeeRatingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LinearSearch/EvenAndOddIndicesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LinearSearch/EvenNoOfDigitsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LinearSearch/EvenNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LinearSearch/MaximumArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LinearSearch/sumArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/bubbleSortAlgorithm/BubbleSortTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KGMWxrAOCqSZeWITm4sjUFtoJA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="selectionSortAlgorithm" />
+      <recent name="bubbleSortAlgorithm" />
+      <recent name="BinarySearch" />
+      <recent name="LinearSearch" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.leetcode.Solution">
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertionSort.InsertionSort" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InsertionSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selectionSortAlgorithm.SelectionSort" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selectionSortAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TargetArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leet.TargetArray" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Solution" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSortTest.selectionBySorting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selectionSortAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selectionSortAlgorithm" />
+      <option name="MAIN_CLASS_NAME" value="selectionSortAlgorithm.SelectionSortTest" />
+      <option name="METHOD_NAME" value="selectionBySorting" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.leetcode.Solution" />
+        <item itemvalue="Application.TargetArray" />
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="JUnit.SelectionSortTest.selectionBySorting" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9d52d29-6fa3-4922-a3b9-d8d1136f56b8" name="Changes" comment="" />
+      <created>1673596504238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673596504238</updated>
+      <workItem from="1673596506268" duration="10562000" />
+      <workItem from="1673982291773" duration="2888000" />
+      <workItem from="1673999425314" duration="415000" />
+      <workItem from="1673999871090" duration="9604000" />
+      <workItem from="1674266710137" duration="33595000" />
+      <workItem from="1674600848517" duration="8000" />
+      <workItem from="1674600948279" duration="7000" />
+      <workItem from="1674607854967" duration="31000" />
+      <workItem from="1675303939639" duration="5623000" />
+      <workItem from="1675314680168" duration="37646000" />
+      <workItem from="1679532963020" duration="1061000" />
+      <workItem from="1681486049992" duration="2353000" />
+      <workItem from="1681668699559" duration="2177000" />
+      <workItem from="1681884717009" duration="3771000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/BinarySearch/arraySearchTest.java</url>
+          <line>9</line>
+          <properties class="BinarySearch.ArraySearchTest" method="testArraySearch">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/bubbleSortAlgorithm/BubbleSortTest.java</url>
+          <line>11</line>
+          <properties class="bubbleSortAlgorithm.BubbleSortTest" method="testBubbleSort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/InsertionSort/InsertionSort.java</url>
+          <line>6</line>
+          <properties class="InsertionSort.InsertionSort" method="insert">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/bubbleSortAlgorithm/BubbleSortTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InsertionSort/InsertionSort.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
