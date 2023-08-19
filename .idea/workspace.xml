@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9d52d29-6fa3-4922-a3b9-d8d1136f56b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Stairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/StringsMultiply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LengthLatWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/MergeSorted.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,9 +70,9 @@
       <recent name="LinearSearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveElement">
-    <configuration name="Fascinating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Fascinating" />
+  <component name="RunManager" selected="Application.ContainsDuplicate">
+    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ContainsDuplicate" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +84,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumNorMinimum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.MaximumNorMinimum" />
+    <configuration name="LengthLatWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LengthLatWord" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.MergeSorted" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -100,19 +112,6 @@
     </configuration>
     <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.RemoveElement" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.ReverseVowels" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContainsDuplicate" />
+        <item itemvalue="Application.MergeSorted" />
+        <item itemvalue="Application.LengthLatWord" />
         <item itemvalue="Application.RemoveElement" />
         <item itemvalue="Application.Stairs" />
-        <item itemvalue="Application.ReverseVowels" />
-        <item itemvalue="Application.Fascinating" />
-        <item itemvalue="Application.MaximumNorMinimum" />
       </list>
     </recent_temporary>
   </component>
@@ -186,6 +185,11 @@
       <workItem from="1691497368302" duration="5712000" />
       <workItem from="1691524804549" duration="967000" />
       <workItem from="1691569581123" duration="2686000" />
+      <workItem from="1691585586872" duration="225000" />
+      <workItem from="1692002784311" duration="1961000" />
+      <workItem from="1692044651595" duration="2480000" />
+      <workItem from="1692089619314" duration="13166000" />
+      <workItem from="1692197778776" duration="4656000" />
     </task>
     <servers />
   </component>
@@ -345,6 +349,26 @@
           <url>file://$PROJECT_DIR$/src/leetcode/Stairs.java</url>
           <line>22</line>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/MergeSorted.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/MergeSorted.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/ContainsDuplicate.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/ContainsDuplicate.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
