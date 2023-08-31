@@ -24,7 +24,7 @@ public class MovingZereos {
     }
 
     public static void main(String[] args) {
-        int[] number = {0};
+        int[] number = {1};
         moveZeroes(number);
 
     }
