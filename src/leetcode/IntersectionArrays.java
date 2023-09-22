@@ -23,12 +23,13 @@ public class IntersectionArrays {
         }
 
 
+
         int count2 = 0;
         int [] intersect = new int[count2];
         int[] gel = new int[tempNums.length];
 
         for (int i = 0; i < tempNums.length; i++) {
-            for (int j = i + 1; j < tempNums.length; j++) {
+            for (int j = i; j < tempNums.length; j++) {
 
                 if(tempNums[i] == tempNums[j] && tempNums[i] != 0) {
                      gel[count2] = tempNums[i];
